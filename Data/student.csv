@@ -1,0 +1,6 @@
+Student_ID,Name,Gender,Department,Age,Marks,Attendance,City,Joining_Date
+101,John,Male,CSE,20,85,92,Hyderabad,2023-01-10
+102,Sara,Female,ECE,21,92,96,Bangalore,2022-07-15
+103,Mike,Male,AIML,22,76,81,Chennai,2023-03-20
+104,Emma,Female,CSE,20,88,89,Hyderabad,2022-12-11
+105,David,Male,ECE,21,95,98,Pune,2023-05-18
