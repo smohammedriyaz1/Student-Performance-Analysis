@@ -22,5 +22,15 @@ print(missing_values)
 duplicates = df.duplicated().sum()
 print(duplicates)
 
+import matplotlib.pyplot as plt 
+dept_count=df["Department"].value_counts()
+print(dept_count)
 
 
+dept_count.plot(kind="bar")
+plt.title("student of each dept")
+plt.xlabel("dept")
+plt.ylabel("Number of students")
+plt.savefig("images/department_chart.png")
+
+plt.show()
