@@ -19,6 +19,17 @@ The project demonstrates data cleaning, validation, and exploratory data analysi
 - Detect invalid marks
 - Detect invalid attendance
 - Basic data analysis
+## Features
+
+- Data Cleaning
+- Missing Value Detection
+- Duplicate Detection
+- Outlier Detection
+- Department Analysis
+- Gender Distribution
+- Average Marks Analysis
+- Attendance Analysis
+- Data Visualization using Matplotlib
 
 ---
 
@@ -27,7 +38,7 @@ The project demonstrates data cleaning, validation, and exploratory data analysi
 - Python
 - Pandas
 - NumPy
-
+-Matplotlib
 ---
 
 ## 📂 Project Structure
