@@ -73,6 +73,7 @@ python student_analysis.py
 - Add more business insights
 
 ---
+Learning Git and open-source contribution.
 
 ## 👨‍💻 Author
 
